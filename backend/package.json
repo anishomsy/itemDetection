@@ -1,6 +1,0 @@
-{
-  "proxy": "http://localhost:4000",
-  "dependencies": {
-    "react-native-sqlite-storage": "^6.0.1"
-  }
-}
